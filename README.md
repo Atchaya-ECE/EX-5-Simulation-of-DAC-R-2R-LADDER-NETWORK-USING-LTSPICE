@@ -22,13 +22,16 @@
 
 <img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
 
+<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/84a34d7f-926d-450a-84f3-77ed2637c597" />
+
 ---
 ## MODEL GRAPH
 <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
 ---
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUT PUT WAVEFORM  
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/8b7ffd26-2a07-408d-beef-96456fe0da68" />
 
 
 ---
